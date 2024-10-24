@@ -3,11 +3,11 @@
   "version": "2.0.0",
   "type": "module",
   "exports": {
-    "import": "./dist/network-receipt-printer.mjs",
-    "require": "./dist/network-receipt-printer.cjs"
+    "import": "./dist/system-receipt-printer.mjs",
+    "require": "./dist/system-receipt-printer.cjs"
   },
-  "module": "dist/network-receipt-printer.mjs",
-  "main": "dist/network-receipt-printer.cjs",
+  "module": "dist/system-receipt-printer.mjs",
+  "main": "dist/system-receipt-printer.cjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NielsLeenheer/SystemReceiptPrinter.git"
